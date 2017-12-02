@@ -1,12 +1,12 @@
 {
   "name": "atom-shide",
   "main": "./lib/atom-shide",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brigand/atom-shide-prepublish.git"
+    "url": "https://github.com/brigand/atom-shide-prepublish.git"
   },
   "license": "MIT",
   "engines": {
